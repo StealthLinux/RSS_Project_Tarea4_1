@@ -1,0 +1,10 @@
+body{background-color: white
+ font-family="Arial";}
+
+.heading{background-color:red; color:black; font-family:"Arial"; position: fixed; text-align:center; padding: 25px; top: 0; width: 100%; height:50px; z-index: 3; margin:0px;}
+
+.columna{display:inline-box; position:relative; background-color:black; border:1px dotted; float:left; width:32%; margin: 1px; padding:10px; text-align: justify; color:white;}
+
+.button{background-color:red; padding:10px; font-weight:bold; color:black; text-align: center; font-family: "Arial"; position: fixed; position: top 90%; left:90%;}
+
+    
